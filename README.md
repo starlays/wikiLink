@@ -9,9 +9,9 @@ more from you. Thank you and I hope you will enjoy this plug-in.
 
 Usage:
 
-`<!wikilink> [search term]` - general syntax
+`/wikilink [term]` - general syntax
 
-`!wikilink weechat` - search for the term weechat on http://www.wikipedia.org/
+`/wikilink weechat` - search for the term weechat on http://www.wikipedia.org/
 
 
 License
